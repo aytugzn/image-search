@@ -40,6 +40,6 @@ MIT License © [Aytuğ Uzun]
 
 ## Canlı Demo
 
-Projeyi GitHub Pages ile canlı olarak [buradan](https://aytugzn.github.io/search-image/) görüntüleyebilirsin.
+Projeyi GitHub Pages ile canlı olarak [buradan](https://aytugzn.github.io/image-search/) görüntüleyebilirsin.
 
 ---
